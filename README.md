@@ -1,2 +1,23 @@
-# Invoice-Automation-Bot-UiPath
-Cloud-based invoice automation built with UiPath. The bot retrieves emails from Gmail, downloads attachments, filters PDF invoices, uses OCR to extract invoice number, amount, and date, and stores structured data in Google Sheets. Designed to reduce manual entry and improve efficiency.
+# Invoice Automation Bot (UiPath)
+
+This project automates invoice processing using UiPath Automation Cloud.
+
+## Features
+- Retrieves emails from Gmail
+- Downloads attachments
+- Filters PDF invoices
+- Uses OCR to extract invoice data
+- Captures invoice number, amount, and date
+- Stores results in Google Sheets
+
+## Tech Stack
+- UiPath Studio Web
+- Gmail Integration
+- OCR
+- Google Sheets
+
+## Output
+Structured invoice data is automatically logged into Google Sheets.
+
+## Use Case
+Designed to reduce manual data entry and improve efficiency in finance workflows.
